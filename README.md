@@ -8,7 +8,7 @@ This is a **Spring Boot CRUD Application** that manages **Authors** and their **
 - Follows clean architecture principles with a separation of concerns (`Controller`, `Service`, and `Repository` layers).
 
 ## **Technologies Used**
-- **Java **
+- **Java**
 - **Spring Boot**
 - **Postman**
-- **PostgreSQL
+- **PostgreSQL**
